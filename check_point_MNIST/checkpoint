@@ -1,2 +1,0 @@
-model_checkpoint_path: "gan.ckpt-99"
-all_model_checkpoint_paths: "gan.ckpt-99"
